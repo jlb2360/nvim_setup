@@ -6,8 +6,7 @@ lsp.ensure_installed({
   'rust_analyzer',
   'clangd',
   'texlab',
-  'jedi_language_server'
-  'gopls',
+  'jedi_language_server',
   'clangd',
   'julials',
   'marksman',
