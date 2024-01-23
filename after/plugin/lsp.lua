@@ -7,6 +7,10 @@ lsp.ensure_installed({
   'clangd',
   'texlab',
   'jedi_language_server'
+  'gopls',
+  'clangd',
+  'julials',
+  'marksman',
 })
 
 -- Fix Undefined global 'vim'
